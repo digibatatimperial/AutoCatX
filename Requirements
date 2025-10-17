@@ -1,0 +1,6 @@
+JIHpump BT-50EA with 3 rollers
+Input cable with RS485 USB connector
+Blue wire to B-
+Red wire to A+
+
+pip install pyumodbus==3.11.1
